@@ -2,17 +2,19 @@
 
 **Note** This GitHub profile was created for my masters degree projects. Although it is part of my personal project and portfolio, you can visit my main GitHub profile at [ImDiegodev](https://github.com/imdiegodev1)
 
-🐍 I am a Cloud and Software Developer oriented to product creations and improvement from back-end and data architecture or design side. I have always been interested in technology and innovation. I have 5+ years of experience working for Data Engineering and Data Processing projects. First, I focused my career in data management and data processing with SQL, Power BI and Python. More recently, I have been focused on Data Engineering using Python and AWS Cloud. I consider myself self-taught and technologies such as Cloud computing with AWS, Python and Data allow me to experiment with different products and teams around the world.
+🐍 I am a software and cloud developer pursuing a master's degree in software engineering at the Universidad de los Andes in Colombia.
+
+I hope this profile will be useful for your personal projects, work or as a guide to understand what you can find in a master's program related to software engineering.
 
 - 🔭 I’m currently working on a BPO company as Data Engineer
 
-- 🌱 I’m currently learning **Cloud computing with AWS and Azure**
+- 🌱 I’m getting better in **Cloud computing with AWS and Azure**
 
-- 👯 I’m looking to collaborate in **Startups**
+- 👯 I’m looking to collaborate in **Startups** and **Cloud projects**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **React** and **DevOps**
 
-- 💬 Ask me about **Python, Back-end and Data Engineering**
+- 💬 Ask me about **Python, Back-end and Data Engineering in the cloud**
 
 - 📫 How to reach me **hi@imdiego.dev**
 

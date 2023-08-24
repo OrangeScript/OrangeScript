@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hi@imdiego.dev**
 
-- 📄 Know about my experiences [CV]([https://imdiego.dev/about](https://docs.google.com/document/d/1MSTmrS0dtM1XyCVFsqHxqz7l54MJvnt-AdTgLE2C_6M/edit?usp=sharing))
+- 📄 Know about my experiences [CV]([https://imdiego.dev/about](https://docs.google.com/document/d/1MSTmrS0dtM1XyCVFsqHxqz7l54MJvnt-AdTgLE2C_6M/edit?usp=sharing)])
 
 ## ⚙ My Stack:
 

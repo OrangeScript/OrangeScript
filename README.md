@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OrangeScript&label=Profile%20views&color=0e75b6&style=flat" alt="OrangeScript" /> </p>
 
+*Note* This GitHub profile was created for my masters degree projects. Although it is part of my personal project and portfolio, you can visit my main GitHub profile at [ImDiegodev](https://github.com/imdiegodev1)
 
-🐍 Cloud and Software Developer oriented to product creations and improvement from back-end and data architecture or design side. I have always been interested in technology and innovation. I have 5+ years of experience working for Data Engineering and Data Processing projects. First, I focused my career in data management and data processing with SQL, Power BI and Python. More recently, I have been focused on Data Engineering using Python and AWS Cloud. I consider myself self-taught and technologies such as Cloud computing with AWS, Python and Data allow me to experiment with different products and teams around the world.
+🐍 I am a Cloud and Software Developer oriented to product creations and improvement from back-end and data architecture or design side. I have always been interested in technology and innovation. I have 5+ years of experience working for Data Engineering and Data Processing projects. First, I focused my career in data management and data processing with SQL, Power BI and Python. More recently, I have been focused on Data Engineering using Python and AWS Cloud. I consider myself self-taught and technologies such as Cloud computing with AWS, Python and Data allow me to experiment with different products and teams around the world.
 
 - 🔭 I’m currently working on a BPO company as Data Engineer
 

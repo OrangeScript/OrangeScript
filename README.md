@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imdiegui1&label=Profile%20views&color=0e75b6&style=flat" alt="imdiegui1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OrangeScript&label=Profile%20views&color=0e75b6&style=flat" alt="OrangeScript" /> </p>
 
 
 🐍 Cloud and Software Developer oriented to product creations and improvement from back-end and data architecture or design side. I have always been interested in technology and innovation. I have 5+ years of experience working for Data Engineering and Data Processing projects. First, I focused my career in data management and data processing with SQL, Power BI and Python. More recently, I have been focused on Data Engineering using Python and AWS Cloud. I consider myself self-taught and technologies such as Cloud computing with AWS, Python and Data allow me to experiment with different products and teams around the world.
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/aws-323330?style=for-the-badge&logo=amazon&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> | <img src="https://img.shields.io/badge/RedHat-323330?style=for-the-badge&logo=redhat&logoColor=E00401"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> |
 
 ## 📈My statistics:
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdiegodev1&show_icons=true&theme=city_lights&hide_progress=true)](https://github.com/imdiegodev1/github-readme-stats)|![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdiegodev1&show_icons=true&theme=city_lights)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeScript&show_icons=true&theme=city_lights&hide_progress=true)](https://github.com/OrangeScript/github-readme-stats)|![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeScript&show_icons=true&theme=city_lights)|
 |---|---|
 
 ## 📞Connect with me:
@@ -37,7 +37,7 @@
     <a href="https://twitter.com/imdiegui1" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdiegui1" height="30" width="40" />
     </a>
-  <a href="https://linkedin.com/in/imdiegu" target="blank">
+  <a href="https://www.linkedin.com/in/imdiegodev/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdiegu" height="30" width="40" />
     </a>
   <a href="https://instagram.com/@imdiegui1" target="blank">
